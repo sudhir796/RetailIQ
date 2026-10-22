@@ -1,0 +1,201 @@
+CustomerID,FirstName,LastName,Gender,BirthDate,City,JoinDate,Age,Tenure,Cluster,ClusterName,IsNegativeTenure,Recency,Frequency,Monetary,AOV,FavoriteCategory
+C001,Michael,Davis,M,1996-09-11,Osborneport,2022-09-25,29,1077,2,Lapsed High-Tenure Clients,0,4,32,94818.549,2963.07965625,Fashion
+C002,Michael,Miller,M,1959-08-18,New Gabrielleport,2020-11-03,66,1699,0,Core Tech Loyalists,0,73,25,47302.424,1892.09696,Electronics
+C003,Carol,Hays,F,2005-04-19,Port Allen,2024-02-12,21,545,2,Lapsed High-Tenure Clients,0,31,26,88093.947,3388.228730769231,Electronics
+C004,Joseph,Ward,M,1992-06-16,East Edgarborough,2024-09-09,34,362,1,Moderate Fashion Shoppers,0,4,24,53715.9865,2238.166104166666,Fashion
+C005,Jamie,Salinas,M,1992-06-18,Port Kimberly,2022-02-24,34,1244,1,Moderate Fashion Shoppers,0,50,23,54701.0415,2378.306152173913,Electronics
+C006,Danny,Moore,M,1986-10-03,Costaberg,2022-07-09,39,1147,1,Moderate Fashion Shoppers,0,12,24,65740.4815,2739.1867291666663,Electronics
+C007,Erin,Walker,M,1985-01-11,West Jasmine,2021-10-13,41,1423,0,Core Tech Loyalists,0,5,29,76074.27799999999,2623.250965517241,Fashion
+C008,Isaiah,Williams,M,1960-11-13,New Michaelland,2025-03-04,65,164,2,Lapsed High-Tenure Clients,0,26,31,87306.411,2816.3358387096773,Fashion
+C009,Richard,Pacheco,F,2004-08-15,West Lisaville,2025-04-17,21,116,1,Moderate Fashion Shoppers,0,30,18,44328.0765,2462.670916666667,Electronics
+C010,Catherine,Rice,M,1976-12-12,West Carol,2025-07-23,49,-36,-1,Excluded (Anomalous Registration),1,85,23,69457.927,3019.9098695652174,Fashion
+C011,Haley,Williams,M,1997-03-03,Leburgh,2023-05-12,29,789,1,Moderate Fashion Shoppers,0,63,17,40594.7665,2387.9274411764704,Fashion
+C012,Dale,Perry,M,1989-12-08,Lake Dawn,2021-07-16,36,1516,2,Lapsed High-Tenure Clients,0,1,32,117085.764,3658.930125,Fashion
+C013,Robert,Anderson,M,1955-01-28,Jillianhaven,2023-03-22,71,902,0,Core Tech Loyalists,0,1,17,47261.917,2780.1127647058825,Fashion
+C014,Brittany,Green,M,1974-06-25,East Samantha,2021-11-09,52,1381,0,Core Tech Loyalists,0,20,29,79092.2605,2727.3193275862072,Electronics
+C015,Matthew,Molina,M,1993-12-12,Quinnville,2022-11-27,32,956,3,High-Value Premium VIPs,0,62,12,38496.869,3208.0724166666664,Fashion
+C016,Miguel,Johnson,M,1976-04-27,Murrayborough,2022-02-21,50,1282,0,Core Tech Loyalists,0,15,25,66100.198,2644.00792,Fashion
+C017,Vanessa,Anderson,F,1982-03-11,Peterside,2024-09-25,44,340,1,Moderate Fashion Shoppers,0,10,29,67940.158,2342.7640689655173,Electronics
+C018,Breanna,Davis,M,1994-08-19,East William,2024-11-12,31,299,2,Lapsed High-Tenure Clients,0,3,30,96908.6985,3230.28995,Fashion
+C019,John,Smith,F,1998-05-16,Stephaniechester,2023-05-17,28,805,1,Moderate Fashion Shoppers,0,42,21,51670.2125,2460.4863095238097,Fashion
+C020,Ryan,Cole,F,1982-06-26,Travisstad,2024-04-19,44,440,3,High-Value Premium VIPs,0,69,25,71308.237,2852.32948,Fashion
+C021,Debbie,Martin,M,1993-11-17,Meganmouth,2022-01-22,32,1265,3,High-Value Premium VIPs,0,62,20,63046.4665,3152.323325,Electronics
+C022,Megan,Velasquez,M,1955-11-16,East James,2020-10-02,70,1773,0,Core Tech Loyalists,0,31,28,71078.904,2538.532285714285,Fashion
+C023,Mark,Martinez,F,1972-05-09,New Christophermouth,2020-10-19,54,1771,0,Core Tech Loyalists,0,16,26,74724.58249999999,2874.0224038461533,Fashion
+C024,Molly,Murray,F,1961-11-25,North April,2023-04-20,64,860,0,Core Tech Loyalists,0,14,26,66369.844,2552.686307692308,Electronics
+C025,Cheryl,Gilbert,F,1971-03-12,Bradyshire,2022-01-14,55,1283,0,Core Tech Loyalists,0,52,25,78969.0915,3158.76366,Electronics
+C026,Justin,Macdonald,M,2004-01-04,Shepherdburgh,2024-09-03,22,324,2,Lapsed High-Tenure Clients,0,48,28,95426.7085,3408.096732142857,Electronics
+C027,Jacqueline,Martin,M,1959-02-05,Robertmouth,2023-08-30,67,674,3,High-Value Premium VIPs,0,68,24,65171.1135,2715.4630625,Fashion
+C028,John,Carr,F,1960-02-10,New David,2022-12-16,66,978,0,Core Tech Loyalists,0,21,27,69895.61899999999,2588.7266296296293,Fashion
+C029,Tyler,Levine,M,1978-05-20,West Charles,2021-08-30,48,1459,2,Lapsed High-Tenure Clients,0,13,30,100719.7115,3357.3237166666668,Electronics
+C030,Lacey,Hall,M,2002-06-10,Thomashaven,2022-08-27,24,1093,1,Moderate Fashion Shoppers,0,17,27,72098.59049999999,2670.3181666666665,Fashion
+C031,Ashley,Gibson,F,2003-03-14,East Carrieberg,2025-08-26,23,-4,-1,Excluded (Anomalous Registration),1,19,23,64644.348,2810.6238260869563,Fashion
+C032,Valerie,Macdonald,M,1992-11-09,East Shelby,2021-01-12,33,1654,3,High-Value Premium VIPs,0,48,18,55262.6415,3070.14675,Fashion
+C033,Jenny,Beck,F,1978-07-27,Lake Cody,2025-03-17,47,167,2,Lapsed High-Tenure Clients,0,10,28,97397.9355,3478.497696428571,Electronics
+C034,Kari,Miller,F,1964-12-19,East Mary,2025-01-13,61,217,1,Moderate Fashion Shoppers,0,23,23,59847.6885,2602.073413043478,Fashion
+C035,Kimberly,King,F,1991-04-19,North George,2023-03-22,35,851,1,Moderate Fashion Shoppers,0,52,24,61739.5085,2572.479520833333,Fashion
+C036,Michael,Cervantes,M,1991-11-04,Ashleyview,2020-09-30,34,1804,2,Lapsed High-Tenure Clients,0,2,27,83142.765,3079.3616666666667,Fashion
+C037,Miranda,Nelson,F,1982-08-30,West Melissahaven,2024-01-31,43,568,1,Moderate Fashion Shoppers,0,20,21,59287.2065,2823.2003095238097,Fashion
+C038,Tracey,Davis,M,1974-04-19,Wilsonbury,2021-05-10,52,1470,3,High-Value Premium VIPs,0,114,24,60930.064,2538.7526666666668,Fashion
+C039,Nancy,Savage,F,1996-11-02,Port Sandra,2022-10-17,29,1055,1,Moderate Fashion Shoppers,0,4,23,61420.4935,2670.456239130435,Electronics
+C040,Scott,Powell,M,1974-11-06,Port Miguel,2022-07-12,51,1149,0,Core Tech Loyalists,0,7,26,73554.7485,2829.0287884615386,Electronics
+C041,Melissa,Rodgers,F,1980-07-03,North Sharontown,2023-01-24,46,866,3,High-Value Premium VIPs,0,94,21,60508.279,2881.3466190476192,Fashion
+C042,Anna,Andrews,F,2000-02-08,North Teresashire,2021-11-09,26,1352,2,Lapsed High-Tenure Clients,0,49,26,102068.0475,3925.694134615384,Electronics
+C043,Kenneth,Allen,M,1988-09-14,North Jonathonhaven,2023-10-14,37,677,2,Lapsed High-Tenure Clients,0,20,30,78463.8195,2615.46065,Electronics
+C044,Parker,Sparks,M,1961-02-14,Bryanside,2024-12-27,65,246,2,Lapsed High-Tenure Clients,0,11,24,80960.918,3373.371583333333,Fashion
+C045,Kelly,Shaw,M,1975-12-28,Zacharyfort,2023-10-09,50,624,3,High-Value Premium VIPs,0,78,20,61898.984,3094.9492,Fashion
+C046,Dennis,Poole,M,1964-01-21,New Jontown,2022-06-25,62,1164,0,Core Tech Loyalists,0,9,32,78987.3955,2468.356109375,Fashion
+C047,Mary,Decker,F,2006-07-03,Port Jessica,2025-02-25,20,194,1,Moderate Fashion Shoppers,0,3,25,59815.5875,2392.6235,Electronics
+C048,Alexis,Crane,M,2004-12-30,Newtonborough,2022-04-10,21,1235,2,Lapsed High-Tenure Clients,0,14,28,79081.114,2824.3255,Fashion
+C049,Antonio,Hamilton,M,1997-01-03,Chambersview,2022-06-23,29,1173,1,Moderate Fashion Shoppers,0,2,24,70660.327,2944.180291666667,Fashion
+C050,Kelly,Mcmillan,M,1968-06-20,Erinland,2022-08-25,58,1085,2,Lapsed High-Tenure Clients,0,27,27,90072.078,3336.0028888888887,Fashion
+C051,Madison,Sellers,F,2004-12-19,Boyerstad,2024-02-25,21,522,1,Moderate Fashion Shoppers,0,41,24,65070.328,2711.2636666666667,Fashion
+C052,Billy,Hernandez,F,1991-09-11,Walkerfurt,2024-04-25,34,404,3,High-Value Premium VIPs,0,99,33,73854.4325,2238.013106060606,Electronics
+C053,Felicia,Morgan,F,1998-04-20,Lake Michaelshire,2024-04-07,28,442,3,High-Value Premium VIPs,0,79,22,58660.518,2666.387181818181,Fashion
+C054,Crystal,Johnson,F,2002-11-10,New Kathleentown,2021-03-19,23,1618,1,Moderate Fashion Shoppers,0,18,21,56515.019,2691.1913809523808,Electronics
+C055,Deborah,Moody,M,1976-07-09,Andersonville,2021-02-05,50,1670,0,Core Tech Loyalists,0,8,20,59390.9805,2969.549025,Electronics
+C056,Carl,Wyatt,F,2004-09-23,North Tracey,2021-06-19,21,1529,1,Moderate Fashion Shoppers,0,15,25,66520.1825,2660.8073,Fashion
+C057,Julie,Gibson,F,1998-09-26,Williamsville,2023-03-26,27,869,1,Moderate Fashion Shoppers,0,30,24,64661.22,2694.2175,Fashion
+C058,Lawrence,Stewart,M,2005-07-22,West Tinatown,2020-11-10,20,1740,2,Lapsed High-Tenure Clients,0,25,27,92703.0575,3433.446574074074,Electronics
+C059,Scott,Wyatt,F,1963-05-11,New Meagan,2024-09-27,63,282,3,High-Value Premium VIPs,0,66,26,64497.179,2480.6607307692307,Electronics
+C060,Anthony,Conway,M,1997-10-09,Carlyberg,2025-06-15,28,84,2,Lapsed High-Tenure Clients,0,3,27,83798.2275,3103.638055555555,Fashion
+C061,Heather,Russell,M,1968-10-21,North Michellemouth,2021-02-01,57,1622,0,Core Tech Loyalists,0,60,26,72618.88399999999,2793.034,Fashion
+C062,Susan,Salinas,M,2000-06-21,Turnerberg,2021-09-23,26,1432,2,Lapsed High-Tenure Clients,0,16,32,86623.56599999999,2706.9864375,Electronics
+C063,Michael,Johnson,M,1973-01-07,West Amandashire,2023-05-29,53,832,1,Moderate Fashion Shoppers,0,3,26,59408.284,2284.934,Fashion
+C064,Amanda,Hoover,F,1973-09-01,Brittanyburgh,2024-09-26,52,321,2,Lapsed High-Tenure Clients,0,28,32,91226.475,2850.82734375,Electronics
+C065,Scott,Duke,F,1969-12-10,Williamhaven,2024-01-21,56,548,3,High-Value Premium VIPs,0,50,22,69365.5095,3152.9777045454543,Fashion
+C066,Jason,Jenkins,F,1985-09-14,New Randychester,2020-12-21,40,1723,0,Core Tech Loyalists,0,1,28,74536.067,2662.0023928571427,Fashion
+C067,Daniel,Maldonado,M,1973-09-07,Davisfurt,2021-03-11,52,1634,0,Core Tech Loyalists,0,10,25,70903.48,2836.1392,Electronics
+C068,Alexandra,Montoya,F,1981-06-09,New Julia,2024-06-13,45,438,2,Lapsed High-Tenure Clients,0,16,30,91381.521,3046.0507,Electronics
+C069,Gabriel,Daugherty,M,1965-10-14,New Reginald,2023-01-11,60,889,3,High-Value Premium VIPs,0,84,23,73123.2485,3179.271673913044,Fashion
+C070,Eric,Bryan,M,1971-10-24,Taylorhaven,2021-03-04,54,1638,0,Core Tech Loyalists,0,13,18,59332.6765,3296.2598055555554,Fashion
+C071,Denise,Gutierrez,M,1962-06-18,New Manuelville,2021-05-24,64,1555,0,Core Tech Loyalists,0,15,26,76635.22,2947.5084615384617,Fashion
+C072,Eric,Watkins,F,1995-06-06,Melissashire,2022-07-02,31,1141,1,Moderate Fashion Shoppers,0,25,15,49996.743,3333.1162,Fashion
+C073,Carl,Armstrong,F,1964-12-04,Port Angelabury,2022-02-09,61,1289,2,Lapsed High-Tenure Clients,0,20,35,95137.3075,2718.2087857142856,Fashion
+C074,Jesus,Singh,F,1959-05-31,Port Michaelstad,2023-02-09,67,941,0,Core Tech Loyalists,0,3,22,61604.887,2800.2221363636363,Fashion
+C075,Seth,Moore,M,1954-09-17,New John,2021-05-12,71,1518,0,Core Tech Loyalists,0,64,27,67978.6025,2517.7260185185182,Fashion
+C076,Phyllis,Durham,M,2005-12-14,Nancyside,2022-05-07,20,1181,1,Moderate Fashion Shoppers,0,41,23,51797.4355,2252.062413043478,Electronics
+C077,Matthew,Juarez,F,2002-12-24,North Meagan,2022-10-21,23,1009,2,Lapsed High-Tenure Clients,0,46,32,102378.9335,3199.341671875,Electronics
+C078,Jeanne,Young,M,1988-09-25,Craigport,2025-01-14,37,227,1,Moderate Fashion Shoppers,0,12,25,62313.6825,2492.5473,Fashion
+C079,Donald,Marsh,F,1979-06-15,North Bradleyfurt,2024-07-06,47,376,3,High-Value Premium VIPs,0,55,24,77456.3445,3227.3476875,Fashion
+C080,Grace,Garcia,F,2003-11-04,Markberg,2023-01-02,22,864,3,High-Value Premium VIPs,0,118,31,58169.7745,1876.4443387096771,Electronics
+C081,Sarah,Reynolds,F,1988-07-20,South Christinabury,2022-09-22,37,1045,1,Moderate Fashion Shoppers,0,39,29,65456.0835,2257.106327586207,Fashion
+C082,Amy,Haley,M,2003-05-11,Vasquezmouth,2024-06-29,23,415,1,Moderate Fashion Shoppers,0,23,27,69375.226,2569.4528148148147,Fashion
+C083,Jeremy,Robles,F,1981-03-29,West Josephport,2022-02-08,45,1299,2,Lapsed High-Tenure Clients,0,11,33,81963.336,2483.7374545454545,Fashion
+C084,Amanda,Lee,M,1972-03-19,Meyersstad,2024-09-04,54,354,2,Lapsed High-Tenure Clients,0,17,24,81935.4595,3413.9774791666664,Electronics
+C085,Juan,Ramirez,M,1979-03-23,New Michaelview,2023-10-11,47,686,2,Lapsed High-Tenure Clients,0,14,34,111867.5625,3290.2224264705883,Fashion
+C086,Lawrence,Hunter,F,1975-09-26,Port Stephanie,2023-07-26,50,764,0,Core Tech Loyalists,0,13,24,71710.4415,2987.9350625,Electronics
+C087,Laurie,Mason,F,1975-06-22,Berrymouth,2025-07-02,51,18,3,High-Value Premium VIPs,0,52,25,69926.2295,2797.04918,Fashion
+C088,Brenda,Costa,F,1997-10-11,North Christian,2022-09-12,28,1069,2,Lapsed High-Tenure Clients,0,25,30,96141.871,3204.729033333333,Electronics
+C089,William,Warner,F,1969-07-12,Geoffreystad,2022-11-25,57,1005,2,Lapsed High-Tenure Clients,0,15,28,89814.3285,3207.6545892857143,Fashion
+C090,Carrie,Peterson,M,1975-08-18,Fergusonview,2022-01-16,50,1309,0,Core Tech Loyalists,0,24,22,66146.588,3006.663090909091,Fashion
+C091,Brian,Fowler,M,1963-02-04,Port Williamhaven,2021-08-23,63,1462,0,Core Tech Loyalists,0,17,28,77885.389,2781.6210357142854,Fashion
+C092,Lindsey,Holder,F,2001-11-28,Mendozaland,2023-12-17,24,504,3,High-Value Premium VIPs,0,129,18,61461.044,3414.5024444444443,Fashion
+C093,Stanley,Brown,M,1978-04-14,Baldwinstad,2022-02-25,48,1290,2,Lapsed High-Tenure Clients,0,3,28,84520.9565,3018.6055892857144,Fashion
+C094,Kimberly,Stokes,M,1962-10-18,Seanland,2025-08-07,63,-40,-1,Excluded (Anomalous Registration),1,74,22,46336.64,2106.210909090909,Fashion
+C095,Kevin,Snyder,M,1982-08-20,Seanville,2020-12-19,43,1694,0,Core Tech Loyalists,0,32,28,71175.8265,2541.9938035714285,Fashion
+C096,Eric,King,M,1989-01-06,Lake Amanda,2021-10-27,37,1361,3,High-Value Premium VIPs,0,53,23,64694.1425,2812.788804347826,Fashion
+C097,Evelyn,Gray,M,1994-08-14,Wardfort,2025-06-14,31,45,2,Lapsed High-Tenure Clients,0,43,29,86812.2105,2993.5245,Fashion
+C098,Lisa,Vega,F,2005-01-09,East Colinmouth,2023-05-22,21,831,1,Moderate Fashion Shoppers,0,11,26,71529.9995,2751.1538269230773,Electronics
+C099,Kimberly,Jones,M,1964-07-22,Hansonhaven,2021-01-17,61,1689,0,Core Tech Loyalists,0,8,15,48377.5335,3225.1689,Electronics
+C100,Sean,Hart,F,1954-09-28,North Jason,2024-11-06,71,203,3,High-Value Premium VIPs,0,105,15,47476.744,3165.1162666666664,Fashion
+C101,William,Pope,F,1956-05-29,North Gary,2024-09-08,70,366,1,Moderate Fashion Shoppers,0,1,21,45791.009,2180.524238095238,Fashion
+C102,Carolyn,Perez,F,1996-06-20,South Briantown,2023-11-12,30,664,2,Lapsed High-Tenure Clients,0,4,34,99498.945,2926.4395588235298,Fashion
+C103,David,Burns,F,1964-10-26,Joyceside,2021-06-04,61,1548,2,Lapsed High-Tenure Clients,0,11,27,88948.614,3294.393111111111,Fashion
+C104,Brenda,Dean,M,1965-03-20,West Ann,2024-01-17,61,578,0,Core Tech Loyalists,0,24,28,66176.558,2363.4485,Fashion
+C105,Kenneth,Berg,M,1969-12-29,Morrisborough,2023-07-06,56,764,0,Core Tech Loyalists,0,33,23,73863.95049999999,3211.476108695652,Fashion
+C106,Kevin,Flores,F,1987-04-23,Lake Ricardo,2025-02-06,39,170,1,Moderate Fashion Shoppers,0,46,25,61530.847,2461.23388,Fashion
+C107,Victoria,Hansen,F,1995-10-08,Lake Dale,2023-07-17,30,718,3,High-Value Premium VIPs,0,68,28,72143.48449999999,2576.5530178571425,Electronics
+C108,Samantha,Hill,M,1960-11-21,Georgetown,2022-06-08,65,1177,0,Core Tech Loyalists,0,13,19,51898.5535,2731.502815789474,Fashion
+C109,Austin,Hogan,F,2006-03-03,Port Fernandohaven,2021-07-29,20,1489,1,Moderate Fashion Shoppers,0,15,22,65821.9425,2991.9064772727274,Fashion
+C110,Travis,Peters,F,1966-01-05,South Ianhaven,2022-12-31,60,983,2,Lapsed High-Tenure Clients,0,1,31,112255.4275,3621.142822580645,Fashion
+C111,Dylan,Booker,M,1993-07-13,Justintown,2022-01-12,33,1273,3,High-Value Premium VIPs,0,64,25,80610.7945,3224.4317800000003,Fashion
+C112,Jeffrey,Smith,F,1983-12-29,Aaronmouth,2023-03-21,42,815,3,High-Value Premium VIPs,0,89,24,71228.296,2967.8456666666666,Fashion
+C113,Heidi,Wilson,M,1977-05-23,Ramosbury,2022-12-31,49,962,0,Core Tech Loyalists,0,22,26,68586.211,2637.931192307692,Fashion
+C114,Miranda,Rodriguez,F,1980-07-04,Adkinsport,2025-08-23,46,8,1,Moderate Fashion Shoppers,0,10,15,42011.2435,2800.7495666666664,Fashion
+C115,Jose,Smith,M,1960-02-25,Smithburgh,2023-11-12,66,640,0,Core Tech Loyalists,0,28,22,54937.7665,2497.1712045454547,Fashion
+C116,Jamie,Webb,M,1955-09-26,Zacharyberg,2025-07-31,70,24,2,Lapsed High-Tenure Clients,0,17,32,89127.099,2785.22184375,Fashion
+C117,Timothy,Beck,F,1987-09-07,Lauraborough,2022-12-18,38,993,1,Moderate Fashion Shoppers,0,4,24,70677.3735,2944.8905625,Fashion
+C118,Gina,Bradford,M,1975-08-27,Port William,2025-07-12,50,58,1,Moderate Fashion Shoppers,0,2,24,59397.5155,2474.8964791666667,Fashion
+C119,Jason,Lloyd,M,1991-07-31,West Ralph,2025-03-31,34,146,2,Lapsed High-Tenure Clients,0,17,32,86759.696,2711.2405,Electronics
+C120,Curtis,Faulkner,F,1964-01-10,Annaborough,2020-10-18,62,1766,0,Core Tech Loyalists,0,22,18,46024.72,2556.928888888889,Fashion
+C121,John,Bell,M,1967-02-28,Sarahhaven,2021-10-11,59,1386,0,Core Tech Loyalists,0,44,28,67795.076,2421.2527142857143,Fashion
+C122,Amy,Smith,M,1961-10-02,Simonstad,2024-06-24,64,432,2,Lapsed High-Tenure Clients,0,11,32,95547.859,2985.87059375,Fashion
+C123,Peter,Edwards,F,1989-11-06,Cliffordbury,2022-06-06,36,1166,2,Lapsed High-Tenure Clients,0,26,25,77493.6275,3099.7451,Electronics
+C124,Chad,Roberts,F,1962-06-07,North Michelle,2021-02-10,64,1631,0,Core Tech Loyalists,0,42,26,67595.3885,2599.8226346153847,Fashion
+C125,Kimberly,Parker,M,1990-04-03,Lake Christopher,2021-03-14,36,1561,3,High-Value Premium VIPs,0,80,23,74617.085,3244.221086956522,Electronics
+C126,Monique,Johnson,M,1980-04-04,West Paulfurt,2024-12-28,46,251,2,Lapsed High-Tenure Clients,0,5,27,82424.115,3052.7450000000003,Fashion
+C127,John,Allen,F,1982-11-17,Kimland,2021-01-22,43,1668,0,Core Tech Loyalists,0,24,23,63071.546,2742.2411304347825,Electronics
+C128,Robert,Collins,F,1976-08-06,Anthonystad,2025-02-09,49,177,1,Moderate Fashion Shoppers,0,36,19,54427.078,2864.583052631579,Fashion
+C129,Gary,Taylor,M,1958-10-08,New Michael,2024-12-10,67,218,3,High-Value Premium VIPs,0,56,21,66666.29149999999,3174.585309523809,Electronics
+C130,Aaron,Bailey,M,1982-02-03,Marcchester,2024-07-15,44,366,1,Moderate Fashion Shoppers,0,56,19,52235.44,2749.2336842105265,Electronics
+C131,Denise,Jackson,M,1996-10-18,Williamsport,2022-12-20,29,990,2,Lapsed High-Tenure Clients,0,5,32,82263.5915,2570.737234375,Fashion
+C132,Jared,Ochoa,M,1958-12-24,Cisnerosville,2023-04-19,67,873,0,Core Tech Loyalists,0,2,24,76025.636,3167.7348333333334,Fashion
+C133,Yvette,Roth,M,1962-04-14,East Melissashire,2025-06-23,64,49,1,Moderate Fashion Shoppers,0,30,20,58217.3665,2910.8683250000004,Electronics
+C134,Emily,Hart,F,1985-01-29,Angelaland,2025-05-22,41,97,2,Lapsed High-Tenure Clients,0,14,31,93879.881,3028.383258064516,Fashion
+C135,Mario,Cuevas,M,1986-03-07,North Charlesville,2023-09-03,40,735,2,Lapsed High-Tenure Clients,0,3,21,73017.6165,3477.0293571428574,Fashion
+C136,Amanda,Garcia,M,2007-06-27,Watsonview,2023-04-22,19,841,3,High-Value Premium VIPs,0,31,19,69463.49799999999,3655.973578947368,Fashion
+C137,Gary,Lopez,M,1984-08-05,Amandachester,2024-05-09,41,440,3,High-Value Premium VIPs,0,49,22,72227.3155,3283.059795454545,Fashion
+C138,Breanna,Moore,F,1961-09-28,Melissaberg,2021-05-10,64,1546,0,Core Tech Loyalists,0,38,28,63385.614,2263.771928571429,Fashion
+C139,Alexander,Mcfarland,M,1960-03-21,Whiteside,2021-09-16,66,1426,0,Core Tech Loyalists,0,29,23,63929.474,2779.542347826087,Fashion
+C140,Stacy,Williams,F,1973-06-12,Port Gail,2024-08-28,53,360,2,Lapsed High-Tenure Clients,0,18,23,87730.185,3814.355869565217,Fashion
+C141,Adam,Lucas,F,1978-08-06,Allisonmouth,2024-01-07,47,611,1,Moderate Fashion Shoppers,0,1,19,56755.6495,2987.139447368421,Electronics
+C142,Suzanne,Fox,M,2005-07-25,Joelborough,2020-12-27,20,1686,1,Moderate Fashion Shoppers,0,32,20,56747.6805,2837.3840250000003,Fashion
+C143,Cynthia,Carlson,M,1961-06-03,South Jameschester,2023-06-10,65,821,0,Core Tech Loyalists,0,2,28,64019.8035,2286.421553571429,Fashion
+C144,Betty,Johnson,F,1963-09-02,North Lisa,2021-03-03,62,1635,2,Lapsed High-Tenure Clients,0,17,29,95727.5515,3300.950051724138,Electronics
+C145,Paige,Osborne,F,1959-11-07,Carlsonborough,2021-08-19,66,1478,0,Core Tech Loyalists,0,5,22,67325.16500000001,3060.234772727273,Fashion
+C146,John,Johnson,F,1997-03-26,North Jamesport,2022-08-31,29,1083,2,Lapsed High-Tenure Clients,0,23,29,78716.277,2714.354379310345,Fashion
+C147,Crystal,Garrison,F,1967-02-03,New Jason,2023-05-20,59,816,2,Lapsed High-Tenure Clients,0,28,34,80471.969,2366.822617647059,Fashion
+C148,John,Foster,F,2005-07-08,Charlesmouth,2024-11-05,21,297,2,Lapsed High-Tenure Clients,0,12,27,88127.3345,3263.975351851852,Fashion
+C149,Melissa,Torres,M,1978-01-24,North Kathryn,2025-05-02,48,116,1,Moderate Fashion Shoppers,0,15,23,59448.5195,2584.718239130435,Fashion
+C150,Francis,Hernandez,M,1971-06-17,Juliefurt,2022-10-07,55,1050,0,Core Tech Loyalists,0,19,23,56823.2915,2470.577891304348,Electronics
+C151,Dawn,Fletcher,M,2006-08-30,South Audrey,2022-01-26,19,1322,2,Lapsed High-Tenure Clients,0,1,26,83698.6225,3219.1777884615385,Electronics
+C152,Brittany,Green,M,1987-06-17,Port Jeffreyside,2021-03-06,39,1580,3,High-Value Premium VIPs,0,69,21,64275.539,3060.739952380952,Electronics
+C153,Nancy,Gordon,F,1988-04-07,Port Alex,2023-02-05,38,851,3,High-Value Premium VIPs,0,97,25,90472.7585,3618.91034,Electronics
+C154,Lisa,Martinez,M,1971-09-02,East Codyton,2023-11-21,54,561,3,High-Value Premium VIPs,0,98,23,91010.2425,3956.967065217391,Electronics
+C155,Jill,Mcconnell,M,1965-09-20,Kevinshire,2024-03-23,60,528,1,Moderate Fashion Shoppers,0,8,22,57978.0665,2635.3666590909093,Fashion
+C156,George,Young,M,1956-11-28,Lisatown,2024-01-04,69,536,3,High-Value Premium VIPs,0,79,25,69706.265,2788.2506,Fashion
+C157,Connie,Terry,M,1965-12-16,Port Patriciaburgh,2022-12-22,60,975,2,Lapsed High-Tenure Clients,0,18,32,97253.192,3039.16225,Fashion
+C158,Crystal,Aguirre,M,1981-07-24,Dylanmouth,2023-09-15,44,670,2,Lapsed High-Tenure Clients,0,56,30,96492.073,3216.402433333333,Fashion
+C159,Thomas,Chung,M,1990-10-14,Joshuamouth,2022-01-26,35,1291,2,Lapsed High-Tenure Clients,0,32,27,77781.22,2880.7859259259258,Fashion
+C160,Meagan,Macdonald,M,1991-09-10,Port Jacob,2021-10-27,34,1394,1,Moderate Fashion Shoppers,0,20,15,43016.6555,2867.7770333333333,Fashion
+C161,Michael,Perez,M,1963-01-19,Shannontown,2023-01-31,63,869,2,Lapsed High-Tenure Clients,0,84,33,92419.9785,2800.605409090909,Electronics
+C162,Jill,Roach,M,2000-08-30,Ellisside,2022-06-03,25,1192,2,Lapsed High-Tenure Clients,0,3,28,79580.266,2842.152357142857,Electronics
+C163,Erin,Rogers,F,1985-10-08,Lake Lindsay,2025-08-20,40,13,1,Moderate Fashion Shoppers,0,8,30,64047.7265,2134.924216666667,Fashion
+C164,Linda,Vasquez,M,1968-07-28,North Rodney,2020-12-21,57,1651,3,High-Value Premium VIPs,0,73,25,84263.3455,3370.53382,Fashion
+C165,Tanya,Mueller,M,1972-12-26,West Tanner,2023-12-05,53,619,1,Moderate Fashion Shoppers,0,26,19,35558.5325,1871.501710526316,Fashion
+C166,Meagan,Ali,F,2001-05-13,South Markbury,2023-07-10,25,777,1,Moderate Fashion Shoppers,0,16,25,69649.8925,2785.9957,Electronics
+C167,Kimberly,Lin,F,1989-12-06,Wilsonland,2022-05-28,36,1081,3,High-Value Premium VIPs,0,120,18,48752.177500000005,2708.454305555556,Electronics
+C168,Richard,Jones,M,1969-07-30,Lake Steventown,2022-10-01,56,1073,2,Lapsed High-Tenure Clients,0,2,28,101478.7265,3624.2402321428567,Fashion
+C169,Travis,Watson,M,1967-06-15,Christopherburgh,2021-12-23,59,1340,0,Core Tech Loyalists,0,17,22,55311.59,2514.163181818182,Fashion
+C170,Amber,Graham,F,1984-05-05,Lake Melissaborough,2025-08-20,42,5,2,Lapsed High-Tenure Clients,0,16,26,83542.984,3213.1916923076924,Electronics
+C171,Christina,Dominguez,M,1993-03-15,Robertsborough,2025-07-28,33,37,2,Lapsed High-Tenure Clients,0,7,31,85718.54699999999,2765.1144193548384,Electronics
+C172,Michelle,Smith,F,1977-03-14,New Fred,2025-06-21,49,49,1,Moderate Fashion Shoppers,0,32,22,67644.1895,3074.735886363636,Fashion
+C173,Lisa,Ruiz,F,1958-08-28,South Marcusberg,2025-08-22,67,-47,-1,Excluded (Anomalous Registration),1,66,16,60074.781,3754.6738125,Electronics
+C174,Scott,Howell,M,2005-07-07,South Jennifer,2025-08-28,21,-5,-1,Excluded (Anomalous Registration),1,18,21,60288.2245,2870.867833333333,Fashion
+C175,Stacey,Thompson,M,1998-01-07,Davidtown,2021-02-25,28,1646,1,Moderate Fashion Shoppers,0,12,27,61903.8515,2292.735240740741,Electronics
+C176,Peter,Garcia,M,1979-10-07,West Amymouth,2021-07-22,46,1503,0,Core Tech Loyalists,0,8,21,54453.9055,2593.0431190476197,Fashion
+C177,Anthony,Gould,F,1985-01-05,South James,2022-01-23,41,1286,2,Lapsed High-Tenure Clients,0,40,27,78777.3655,2917.680203703704,Fashion
+C178,Mark,Mcdonald,F,1960-12-05,East Paulburgh,2024-06-22,65,435,0,Core Tech Loyalists,0,10,23,62213.99,2704.9560869565216,Electronics
+C179,Dennis,Wallace,F,1985-02-14,Bennettburgh,2025-08-19,41,7,1,Moderate Fashion Shoppers,0,15,26,62936.453,2420.632807692308,Fashion
+C180,Nichole,Calhoun,F,1959-12-15,West Dakotaside,2022-10-19,66,1023,0,Core Tech Loyalists,0,34,24,65377.6255,2724.0677291666666,Fashion
+C181,Brittany,Oneal,F,1972-11-28,Port Bryce,2024-12-12,53,239,1,Moderate Fashion Shoppers,0,33,26,70968.381,2729.553115384615,Fashion
+C182,Meghan,Wright,M,2004-07-25,East Rodney,2021-04-16,21,1542,3,High-Value Premium VIPs,0,66,20,61257.665,3062.88325,Fashion
+C183,Mary,Dawson,M,1990-11-19,New Tiffanyberg,2021-08-27,35,1447,2,Lapsed High-Tenure Clients,0,28,27,87371.313,3235.9745555555555,Electronics
+C184,Daniel,Mcintyre,M,2003-04-13,West Katrina,2021-04-19,23,1598,2,Lapsed High-Tenure Clients,0,7,28,82247.7795,2937.420696428572,Fashion
+C185,Joe,Vincent,F,1975-07-04,North Chaseborough,2024-10-06,51,311,2,Lapsed High-Tenure Clients,0,28,36,95516.4335,2653.234263888889,Fashion
+C186,Vicki,Guzman,F,1960-05-05,West Wandaland,2024-02-07,66,567,2,Lapsed High-Tenure Clients,0,14,36,101239.3985,2812.2055138888886,Electronics
+C187,Cynthia,Cherry,M,1989-01-14,Gomeztown,2023-11-01,37,650,2,Lapsed High-Tenure Clients,0,29,25,75150.57949999999,3006.02318,Electronics
+C188,Ryan,Flores,M,1960-11-23,East Danielleshire,2023-05-19,65,837,0,Core Tech Loyalists,0,8,25,63667.1025,2546.6841,Fashion
+C189,Steve,Flynn,M,1966-08-07,East Walter,2021-03-05,59,1613,2,Lapsed High-Tenure Clients,0,37,28,90016.8265,3214.8866607142854,Fashion
+C190,Daniel,Lawson,M,1967-08-19,Conwayside,2023-04-10,58,779,3,High-Value Premium VIPs,0,105,17,44472.663,2616.039,Fashion
+C191,Karen,Quinn,F,1958-07-14,Kristinemouth,2022-06-11,68,1180,0,Core Tech Loyalists,0,7,25,77701.6075,3108.0643,Electronics
+C192,James,Wilson,M,2006-07-28,Franklinview,2023-09-26,19,670,1,Moderate Fashion Shoppers,0,45,17,49054.8595,2885.579970588235,Electronics
+C193,Donald,Meza,F,1969-11-06,North Kelly,2020-12-08,56,1736,0,Core Tech Loyalists,0,1,20,66139.625,3306.98125,Fashion
+C194,Ann,West,M,2000-09-02,Craigshire,2022-08-05,25,952,3,High-Value Premium VIPs,0,180,23,64169.6665,2789.9855,Electronics
+C195,James,Mitchell,F,1976-08-23,East Raymond,2025-06-19,49,49,1,Moderate Fashion Shoppers,0,34,18,51561.259,2864.514388888889,Fashion
+C196,James,Noble,F,1964-04-24,Woodbury,2025-02-19,62,124,3,High-Value Premium VIPs,0,79,26,68920.33649999999,2650.782173076923,Fashion
+C197,Matthew,Dixon,M,1957-09-23,Lake Emily,2020-11-18,68,1731,0,Core Tech Loyalists,0,26,23,75980.912,3303.517913043478,Electronics
+C198,Jessica,Mullins,M,1986-01-23,Jessicaside,2022-12-10,40,971,1,Moderate Fashion Shoppers,0,34,28,63769.5265,2277.4830892857144,Fashion
+C199,Juan,Johnson,F,1970-05-18,South Scottton,2021-07-28,56,1457,0,Core Tech Loyalists,0,48,26,78587.16,3022.583076923077,Fashion
+C200,Ronald,Haley,M,2001-12-24,Jenniferbury,2025-06-24,24,74,2,Lapsed High-Tenure Clients,0,4,22,77454.1105,3520.641386363636,Fashion
